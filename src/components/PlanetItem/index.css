@@ -1,0 +1,22 @@
+.image {
+  width: 200px;
+  margin: auto;
+}
+
+.card {
+  width: 750px;
+  text-align: center;
+}
+
+.heading {
+  color: #05acff;
+  font-family: 'Roboto';
+}
+
+.heading-2 {
+  color: #f8fafc;
+}
+
+.desc {
+  color: #f1f5f9;
+}
